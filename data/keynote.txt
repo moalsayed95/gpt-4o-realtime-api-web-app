@@ -1,0 +1,7 @@
+Time (9.10-11.30),Topic,Speaker name,Title,Company ,Title of the Speech,Short Bio,A short description of the speech,(High quality) picture 
+9.10-9.30,Welcome words,Mervi Airaksinen,Toimitusjohtaja,Microsoft Oy,Welcome words,,,Attachment
+9.30-10.00,Public Sector AI,Matti Bergendahl,Toimitusjohtaja,HUS,Public Sector AI,,,Attachment
+10.00-10.30,Private Sector AI,Hannu Krook,P‰‰johtaja,SOK,Betonista bittiin ja bitti‰ betoniin - S-ryhm‰ muutosmatkalla,,"S-ryhm‰ on Suomen johtava kaupanalan yritysryhmittym‰, joka hyˆdynt‰‰ dataa, analytiikkaa ja teknologiaa monipuolisesti ja laaja-alaisesti liiketoiminnoissa, prosesseissa ja asiakasrajapinnassa. SOK:n p‰‰johtaja Hannu krook avaa keynote-puheenvuorossaan S-ryhm‰n digitransformaatiota perinteisest‰ kivijalkatoimijasta moderniksi teknologiataloksi.",Attachment
+10.30-11.00,Microsoft Halo AI,Teemu Vidgren,Operatiivinen johtaja,Microsoft Oy,Microsoft Halo AI,,,Attachment
+,,,,,,,,
+,,,,,,,,
