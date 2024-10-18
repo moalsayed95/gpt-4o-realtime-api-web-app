@@ -1,0 +1,153 @@
+Room 1: Build AI Apps
+Time: 12:30 - 15:30
+
+12:30 - 13:00
+Topic: Azure AI - enemmän kuin Azure OpenAI Service
+Speaker: Jouni Heikniemi (Microsoft Regional Director)
+Company: Microsoft
+Title of the Speech: Azure AI - enemmän kuin Azure OpenAI Service
+Short Bio: Jouni is a Microsoft Regional Director with a vast understanding of AI tools within Azure.
+Description: GPT is amazing, but it doesn't solve all the world's problems. We'll explore Azure AI offerings more comprehensively and highlight favorite AI services for your next project. What tools can you find for your upcoming projects?
+
+13:00 - 13:30
+Topic: Tekoälyratkaisujen arkkitehtuurit käytännössä
+Speaker: Sakari Nahi (Microsoft Regional Director & Azure MVP)
+Company: Microsoft
+Title of the Speech: Tekoälyratkaisujen arkkitehtuurit käytännössä
+Short Bio: Sakari is an expert in AI solution architectures and their practical applications in the modern era.
+Description: As the number of GenAI projects grows, this presentation looks at real-world architectures today and predicts the future of generative AI projects. This session is tailored for developers, architects, and project managers, offering insights to compare your environment with market trends.
+
+13:30 - 13:50
+Break (20 mins)
+
+13:50 - 14:10
+Topic: Accelerating Developer Productivity
+Speaker: Maxim Salnikov (Application Innovation GTM Lead)
+Company: Microsoft
+Title of the Speech: Accelerating Developer Productivity
+Description: A practical guide on increasing developer productivity through Azure’s AI offerings.
+
+14:10 - 14:30
+Topic: Azure OpenAI - turvallisuus ja yksityisyys käytännössä
+Speaker: Jussi Roine (Security MVP)
+Company: Microsoft
+Title of the Speech: Azure OpenAI - turvallisuus ja yksityisyys käytännössä
+Description: While AI seems magical, implementing it requires a focus on security, privacy, and compliance. This session covers end-to-end security, ensuring the responsible use of AI capabilities in your solutions.
+
+14:30 - 14:50
+Break (20 mins)
+
+14:50 - 15:10
+Topic: Case: Knowledge Work Automation with Azure OpenAI and AI Search
+Speaker: Petri Kasper (Lead Architect)
+Company: M-Files
+Title of the Speech: Case: Knowledge Work Automation with Azure OpenAI and AI Search
+Description: Learn how M-Files built an enterprise-scale work automation platform using Azure AI services.
+
+15:10 - 15:30
+Topic: VoiceRAG - Using Azure AI Search and the GPT-4o Realtime API for Audio
+Speaker: Lukas Lundin (Build and Modernize AI Apps GTM Lead)
+Company: Microsoft
+Title of the Speech: VoiceRAG - Using Azure AI Search and the GPT-4o Realtime API for Audio
+Description: This session explores the architecture of voice-based generative AI apps with secure access to both the model and retrieval systems.
+
+Room 2: Configure and Customize Copilot
+Time: 12:30 - 16:00
+
+12:30 - 13:00
+Topic: Microsoft 365 Copilot Overview
+Speaker: Kalle Saarikannas (Liiketoimintajohtaja, Modern Work)
+Company: Microsoft
+Title of the Speech: Microsoft 365 Copilot - Luovan tekoälyn saapuminen työpaikalle
+Short Bio: Kalle leads Microsoft's Modern Work solution area in Finland, overseeing the development of AI-driven Microsoft 365 Copilot.
+Description: An opening talk on how Microsoft 365 Copilot is transforming workplaces by integrating large language models with Microsoft Graph technology. Discover how AI can help with business summaries, queries, and content creation.
+
+13:00 - 13:30
+Topic: Business Copilots
+Speaker: Tiia Kuokkanen (Technical Specialist and SME Business Copilots)
+Company: Microsoft
+Title of the Speech: Business Copilotit: Tuottavuuden tehostaminen eri liiketoimintaroolien tarpeisiin
+Short Bio: Tiia has extensive experience in ERP solutions and business processes and currently supports Microsoft customers in Finland and Western Europe.
+Description: This session introduces Business Copilots, role-specific AI enhancements designed to complement Microsoft 365 Copilot, helping sales and other teams boost productivity.
+
+13:30 - 13:50
+Break (20 mins)
+
+13:50 - 14:30
+Topic: Extending Copilot - Overview (40 mins)
+Speaker: Martin Lagus (Modern Work Usage Architect, Global Customer Success Unit)
+Company: Microsoft
+Title of the Speech: Microsoft 365 Copilotin Laajentaminen Copilot-agenttien Avulla
+Description: Learn how to expand Microsoft 365 Copilot with customized capabilities, even without being a professional developer. The session will explore how Copilot agents can cater to specific needs.
+
+14:30 - 14:50
+Break (20 mins)
+
+14:50 - 15:10
+Topic: Copilot Studio
+Speaker: Pasi Halme (Technical Specialist Power Platform)
+Company: Microsoft
+Title of the Speech: Copilot Studio - Kuinka Suunnitella Älykkäitä Agentteja
+Short Bio: Pasi has expertise in Dynamics 365 and low-code technologies, aiding in digital transformation and process automation.
+Description: Explore Copilot Studio’s features and learn how to design intelligent agents that enhance business productivity.
+
+15:10 - 15:40
+Topic: Lessons and Best Practices to Drive Microsoft 365 Copilot Adoption
+Speaker: Fuad Rachkidi (Principal Solution Architect)
+Company: Microsoft
+Description: A guide to successfully landing Microsoft 365 Copilot with a people-centric adoption approach, covering key roles, personas, and activities.
+
+15:40 - 16:00
+Topic: Measure your ROI with GenAI and Microsoft 365 Copilot
+Speaker: Erica Kulas Ek (Microsoft 365 Global Black Belt Specialist)
+Company: Microsoft
+Description: Erica shares insights on measuring the impact and ROI of GenAI investments, drawing on her experience from over 50 Copilot rollouts.
+
+Room 3: Migrate and Modernize for the Future
+Time: 12:30 - 15:30
+
+12:30 - 13:00
+Topic: AI Infrastructure
+Speaker: Jukka Loikkanen (MVP)
+Title of the Speech: Robust Infrastructure for Building AI Apps at Scale
+Description: Explore the infrastructure requirements and best practices for building scalable AI applications.
+
+13:00 - 13:30
+Topic: Fabric and AI
+Speaker: Heini Ilmarinen (MVP)
+Title of the Speech: Integrating Azure AI and Fabric to Build Next-Gen AI Applications
+Description: Learn how to integrate Azure AI with Microsoft Fabric to build future-ready AI applications.
+
+13:30 - 13:50
+Break (20 mins)
+
+13:50 - 14:30
+Topic: AKS and AI
+Speaker: Maryam Tavakkoli (MVP)
+Title of the Speech: Building Transformations AI Apps with AKS
+Description: A deep dive into how Azure Kubernetes Service (AKS) can facilitate the development of transformative AI applications.
+
+14:30 - 14:50
+Break (20 mins)
+
+14:50 - 15:30
+Topic: Data and AI
+Speaker: Vesa Tikkanen (MVP)
+Title of the Speech: Next-gen AI Apps with Scalable Databases
+Description: Explore how scalable databases play a critical role in building next-gen AI applications.
+
+Room 4: End-to-End Security
+Time: 12:30 - 15:30
+
+13:00 - 13:30
+Topic: Securing the Digital Estate
+Speaker: Åsa Kidman (Customer Security Officer Nordics)
+Company: Microsoft
+Description: A keynote on securing digital environments across enterprises, ensuring robust security strategies are in place.
+
+13:15 - 14:00
+Topic: Unified SecOps Platform
+Speaker: Marko Lauren (Technical Specialist)
+Company: Microsoft
+Title of the Speech: Securing the Digital Estate: Comprehensive Protection with Microsoft Unified SecOps Platform
+Description: Learn how Microsoft Sentinel and Defender XDR integrate to provide unified security, from threat intelligence to incident management.

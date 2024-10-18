@@ -1,0 +1,67 @@
+﻿Business Track:
+Event Focus: AI in various industries including construction, manufacturing, healthcare, public sector, and telecommunications.
+
+Schedule Overview:
+12:30 - 12:40 | Track Introduction
+
+12:40 - 13:00 | YIT - Microsoft 365 Copilot in Construction
+Speaker: Visa Linkiö, AI Lead, YIT
+Title of the Speech: Pilottivaiheesta agenttien orkestrointiin - YIT
+Copilot-matka
+Short Bio: Visa Linkiö is an AI advocate leading YIT's efforts in AI adoption. He previously worked as a consultant and data science expert and is passionate about AI, agile methodologies, board games, and martial arts.
+Speech Summary: YIT has successfully integrated Copilot for use cases such as translations, information retrieval, and report writing. The talk will cover how Copilot is now available to all YIT employees and how they are expanding its use in orchestrating other Copilots to increase efficiency and reduce manual tasks.
+Vertical: Construction
+
+
+13:00 - 13:20 | KONE - General Gen AI Story in Manufacturing
+Speaker: Lulu Zhang, Director, Head of Technology & Services, KONE
+Title of the Speech: Rise to Lead, Continue Innovating
+Short Bio: Lulu Zhang has 20 years of experience in IT management, specializing in IT application and service management. She leads the KONE GenAI Lighthouse team, focused on delivering innovative AI solutions that enhance productivity and efficiency.
+Speech Summary: KONE moves 2 billion people daily and uses generative AI to improve operations and create value for customers. Lulu will share KONE's approach to leveraging AI in various projects.
+Vertical: Manufacturing
+
+
+13:30 - 13:50 | Break
+13:50 - 14:10 | Sponda - Microsoft 365 Copilot in Real Estate
+Speaker: Timo Pantsari, CIO, Sponda
+Title of the Speech: Tekoälytransformaatio liiketoiminnassa: Sponda Case study
+Short Bio: Timo Pantsari is an IT leader with extensive experience in managing complex IT and business transformations. He is recognized for his expertise in change management.
+Speech Summary: This talk covers Sponda's AI transformation journey, sharing best practices and lessons learned from implementing AI in a real estate investment firm.
+Vertical: Real Estate
+
+
+14:10 - 14:30 | State Treasury of Finland - AI in the Public Sector
+Speaker: Virpi Hotti, Chief Specialist, Valtiokonttori
+Title of the Speech: Kohti konetietoisuutta - tekoälykyvykkyyksien kehittämisesimerkkejä Valtiokonttorilta
+Short Bio: Virpi Hotti holds a PhD in formal methods in software engineering and works at Valtiokonttori, focusing on IT system development. She also teaches computer science at the University of Eastern Finland.
+Speech Summary: This session discusses the readiness for AI consciousness and shares practical examples of developing AI capabilities within the Finnish State Treasury.
+Vertical: Public Sector
+
+
+14:30 - 14:50 | Break
+14:50 - 15:10 | HUS - Microsoft 365 Copilot in Healthcare
+Speaker: Mikke Bergström, Product Manager, HUS IT
+Title of the Speech: Copilot for M365 pilottimatka terveydenhuollossa - Miten ja keitä Copilot auttaa HUSissa?
+Short Bio: Mikke Bergström manages the Microsoft Power Platform and Copilot platforms at HUS. He plays a key role in implementing innovative cloud and office solutions for HUS, driving the Copilot for M365 pilot project.
+Speech Summary: Mikke will share insights from HUS's M365 Copilot pilot, detailing which roles have benefited most and how Copilot has transformed workflows in healthcare.
+Vertical: Healthcare
+
+
+
+15:10 - 15:30 | Nokia - General Gen AI Story in Telecommunications
+Speaker: Harri Holma, Business Fellow, Nokia
+Title of the Speech: Nokia’s AI Journey
+Speech Summary: Harri will explore how Nokia integrates AI into its products and services today, and how AI will shape the future of network requirements leading up to 2030.
+Vertical: Telecommunications
+
+
+
+15:30 - 15:50 | Metso - General Gen AI Story in Manufacturing
+Speaker: Hashmeet Virdi, Lead Enterprise Architect, Metso
+Title of the Speech: Metso - Our Journey with AI
+Short Bio: Hashmeet Virdi focuses on transforming Metso digitally, with a deep understanding of making the right architectural decisions to drive digital change.
+Speech Summary: This talk will provide an overview of Metso's AI journey, discussing the practical steps involved in AI adoption, including both opportunities and risks.
+Vertical: Manufacturing
+
+
+15:50 - 16:00 | Track Wrap
