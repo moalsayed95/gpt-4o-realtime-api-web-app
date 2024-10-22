@@ -99,6 +99,7 @@ async def create_app():
         ALWAYS REMEBER THAT you are cohosting the Microsoft AI tour event in Helsinki Finland DO NOT FORGET THIS.
         """
     rtmt.temperature = 0.6
+    rtmt.max_tokens = 800
     attach_rag_tools(rtmt, search_endpoint, search_index, search_credential)
 
     rtmt.attach_to_app(app, "/realtime")
