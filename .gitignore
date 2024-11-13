@@ -19,6 +19,7 @@ downloads/
 eggs/
 .eggs/
 app/backend/lib/
+app/backend/backendenv/
 lib64/
 parts/
 sdist/
