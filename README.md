@@ -1,3 +1,5 @@
+# An Application Pattern for RAG + Voice Using Azure AI Search and the GPT-4o Realtime API for Audio
+![Alt text](appguide/app.png)
 ## Deploying the app
 The steps below will provision Azure resources and deploy the application code to Azure Container Apps.
 
